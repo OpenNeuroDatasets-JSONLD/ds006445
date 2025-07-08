@@ -11,8 +11,10 @@
 -Exclusion criteria: Exclusionary criteria included penetrating injury, complicated traumatic brain injury, visible signs of injury on structural MRI scan (see Clinical MRI Scans), and contraindications to MRI (non-removable metal, incompatible medical devices, hearing loss, tinnitus, claustrophobia), and pregnancy. While most participants had no clinically significant cardiac, neurological, pulmonary, or psychiatric diseases other than mild-moderate mood and attention deficit disorders, a few participants had other co-occurring conditions
 
 **Control Group:**
-  - Inclusion criteria: 
-  - Exclusion criteria:
+
+  - Inclusion criteria: Participants must be adults between the ages of 18 – 30 (all genders, sexes, and races/ethnicities). 
+
+  - Exclusion criteria: Exclusionary criteria included previous concussion diagnosis within a year prior to participation, contraindications to MRI (non-removable metal, incompatible medical devices, hearing loss/tinnitus, claustrophobia), pregnancy, or clinically significant cardiac, neurological, pulmonary, or psychiatric diseases other than mild-moderate mood (anxiety or depression) and attention deficit disorders.
 
 **MRI Protocol**: 
 
