@@ -2,7 +2,7 @@
 
 **Current Version:** 1.0.0
 
-**Dataset Description:** 32 young, healthy control subjects and 30 patients recently diagnosed with concussion (scanned within 5 days of injury) underwent anatomical and multidimensional diffusion imaging to assess whether MDM discriminates between concussion vs. control groups. 
+**Dataset Description:** 32 young, healthy control subjects and 30 young patients recently diagnosed with concussion (scanned within 5 days of injury) underwent anatomical and diffusion imaging with to assess whether tensor-valued encoding parameters (microscopic anisotropy and normalized isotropic diffusivity variance) indicate brain structural differences between concussion vs. control groups. 
 
 **Concussion Group:**
 
