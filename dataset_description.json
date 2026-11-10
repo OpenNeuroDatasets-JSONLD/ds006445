@@ -1,5 +1,5 @@
 {
-    "Name": "Detecting Concussion with Multidimensional Diffusion",
+    "Name": "Detecting Concussion with Tensor-valued Diffusion Encoding",
     "BIDSVersion": "1.10.0",
     "License": "CC0",
     "Authors": [
