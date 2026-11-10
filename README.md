@@ -1,4 +1,4 @@
-# Detecting Concussion with Multidimensional Diffusion Imaging (MDM)
+# Detecting Concussion with Tensor-valued Diffusion Encoding
 
 **Current Version:** 1.0.0
 
