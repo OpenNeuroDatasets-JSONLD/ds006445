@@ -22,5 +22,5 @@
         "Study code: https://github.com/ejrise/tvd_concussion"
     ],
     "DatasetDOI": "",
-    "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany for providing software code for the gradient tensor waveforms. We would also like to thank Mario Mendoza for MRI data collection and participant recruitment assistance."
+    "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany for providing code for the tensor-valued encoding waveforms. We would also like to thank Mario Mendoza at UC Santa Barbara’s Brain Imaging Center for MRI data collection and participant recruitment assistance. "
 }
