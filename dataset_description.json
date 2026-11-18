@@ -21,6 +21,6 @@
         "https://www.proquest.com/docview/3199000581?sourcetype=Dissertations%20&%20Theses",
         "Study code: https://github.com/ejrise/tve-con"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006445.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006445.v1.0.1",
     "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany for providing code for the tensor-valued encoding waveforms. We would also like to thank Mario Mendoza at UC Santa Barbara’s Brain Imaging Center for MRI data collection and participant recruitment assistance. "
 }
