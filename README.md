@@ -26,9 +26,9 @@
 
 The .bvec files in this dataset are the original, unmodified files from the scanner. When used as-is, we found that their tensor fits give principal diffusion directions that don’t agree with the expected anatomy. For Rizor et al., 2026, _Imaging Neuroscience_, we corrected every .bvec file before any processing as shown below: 
 
-new row 1 (x) = −(original row 2)
-new row 2 (y) = −(original row 1)
-new row 3 (z) =   original row 3
+- New row 1 (x) = −(original row 2)
+- New row 2 (y) = −(original row 1)
+- New row 3 (z) = original row 3
 
 To reproduce our results, apply the same correction. 
 
