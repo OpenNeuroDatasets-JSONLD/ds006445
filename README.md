@@ -37,7 +37,7 @@ To reproduce our results, apply the same correction.
 ## Citation
 Please cite the following:  
 
-Rizor, E.J., Dundon, N.M., Hayes, M., Sabugo, K., & Grafton, S. (2026). Characterizing white matter microstructure in acute concussion with tensor-valued diffusion encoding. _Imaging Neuroscience_. 
+[Rizor, E.J., Dundon, N.M., Hayes, M., Sabugo, K., & Grafton, S. (2026). Characterizing white matter microstructure in acute concussion with tensor-valued diffusion encoding. _Imaging Neuroscience_.](https://doi.org/10.1162/IMAG.a.1483) 
 
 Rizor, E. J. (2025). Mapping the human brain with multidimensional diffusion and multi-echo imaging to advance clinical insights (Order No. 31768051). Available from Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; ProQuest Dissertations & Theses Global. (3199000581). Retrieved from https://www.proquest.com/dissertations-theses/mapping-human-brain-with-multidimensional/docview/3199000581/se-2
 
