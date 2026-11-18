@@ -39,5 +39,5 @@ Rizor, E.J., Dundon, N.M., Hayes, M., Sabugo, K., & Grafton, S. (202
 
 Rizor, E. J. (2025). Mapping the human brain with multidimensional diffusion and multi-echo imaging to advance clinical insights (Order No. 31768051). Available from Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; ProQuest Dissertations & Theses Global. (3199000581). Retrieved from https://www.proquest.com/dissertations-theses/mapping-human-brain-with-multidimensional/docview/3199000581/se-2
 
-**Rizor el al., Code**: [All code used for Rizor et al., 2026, _Imaging Neuroscience_ can be found here.] (https://github.com/ejrise/tve-con) 
+**Rizor el al., Code**: [All code used for Rizor et al., 2026, _Imaging Neuroscience_ can be found here.](https://github.com/ejrise/tve-con) 
 
