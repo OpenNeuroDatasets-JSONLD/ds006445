@@ -22,6 +22,16 @@
 
 - Clinical Imaging: All participants additionally underwent a battery of routine clinical brain MRI scans. These whole-brain scans include a T2-weighted turbo spin echo (TSE) sequence (TR = 6000 ms, TE = 100 ms, flip angle = 150°, FOV = 220x220 mm, voxel size = 4.0 mm isotropic) a T2-weighted FLAIR sequence (TR = 9000 ms, TE = 83.0 ms, flip angle = 150°, FOV = 220x220 mm, voxel size = 0.7 x 0.7 x 4.0 mm), a T2*-susceptibility weighted sequence (TR = 738.0 ms, TE = 19.90 ms, flip angle = 20°, FOV = 220 x 220 mm, voxel size = 0.7 x 0.7 x 4.0 mm), and a diffusion-weighted imaging sequence (b-values = 0, 0.5, 1 ms/µm², directions = 3, TR = 4100 ms, TE = 81 ms, flip angle = 90°, FOV = 230x230 mm, voxel size = 2.0 x 2.0 x 4.0 mm, iPAT factor = 2, max. diffusion gradient amplitude = 80.0 mT/m). Clinical MRI scans were read blinded to group membership by a licensed neurologist with expertise in neuroimaging. No participant had evidence of mass effect, micro- or macroscopic hemorrhage, diffusion abnormalities suggestive of ischemia, or other significant findings. 
 
+**Important note on diffusion gradient directions (bvec files)**:
+
+The .bvec files in this dataset are the original, unmodified files from the scanner. When used as-is, we found that their tensor fits give principal diffusion directions that don’t agree with the expected anatomy. For Rizor et al., 2026, _Imaging Neuroscience_, we corrected every .bvec file before any processing as shown below: 
+
+new row 1 (x) = −(original row 2)
+new row 2 (y) = −(original row 1)
+new row 3 (z) =   original row 3
+
+To reproduce our results, apply the same correction. 
+
 ## Citation
 Please cite the following:  
 
